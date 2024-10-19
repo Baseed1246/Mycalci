@@ -1,9 +1,15 @@
 Name: SHAIK BASEED 
+
 Company: CODETECH IT SOLUTIONS 
+
 Intern ID: CT08DS9327
+
 Domain: PYTHON PROGRAMMING 
+
 Duration: Oct to Nov 2024
+
 Mentor: Neela Santosh Kumar
+
 Overview Of The Project :
 
 Project: Simple Calculator 
