@@ -4,15 +4,15 @@ Company: CODETECH IT SOLUTIONS
 
 Intern ID: CT08DS9327
 
-Domain: PYTHON PROGRAMMING 
+Domain: PYTHON PROGRAMMING. 
 
-Duration: Oct to Nov 2024
+Duration: Oct to Nov 2024.
 
-Mentor: Neela Santosh Kumar
+Mentor: Neela Santosh Kumar.
 
 Overview Of The Project :
 
-Project: Simple Calculator 
+Project Task-1: Simple Calculator.
 
 OUTPUT:
 
